@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1767934279/NDKROOT/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1767934279/NDKROOT/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1767934279/NDKROOT/value=/Users/nivedita/Documents/softwares/android-ndk-r10d
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1767934279/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1767934279/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1302945378/NDKROOT/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1302945378/NDKROOT/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1302945378/NDKROOT/value=/Users/nivedita/Documents/softwares/android-ndk-r10d
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1302945378/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1302945378/appendContributed=true

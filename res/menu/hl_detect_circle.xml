@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hlab.opencv.Opencvd2Activity" >
+
+   
+    <item android:id="@+id/action_rgbpreview"  android:title="@string/action_rgbpreview"/>
+    <item android:id="@+id/action_cannyedges"  android:title="@string/action_cannyedges"/>
+    <item android:id="@+id/action_houghcircles"  android:title="@string/action_houghcircles"/>
+    
+</menu>
